@@ -12,10 +12,10 @@
       "modular",
       "media"
     ],
-  "repository": "https://github.com/EverythingSuckz/TG-FileStreamBot",
+  "repository": "https://github.com/shadowninja024/TG-FileStreamBot",
   "success_url": "/",
   "logo": "https://telegra.ph/file/9d63060a06c6fc6def1da.png",
-  "website": "stream.wrench.gq",
+  "website": "https://github.com/shadowninja024/TG-FileStreamBot",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
